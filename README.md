@@ -15,7 +15,11 @@ check out a new branch using `git checkout -b branchname`, or if the branch alre
 make some changes. client/components/App.jsx is a good place to start.
 the script `dev` is listening to any changes to files, so no need to run it again. just refresh on localhost:3000 to confirm any changes. 
 
+While your at it, download the React developer tools extension.
+Chrome: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
 
+#### Step five
 send your changes to github;
 
 `git add .` to add all changes, or `git add filename` to add changes of a specific file,
@@ -24,7 +28,7 @@ send your changes to github;
 
 `git push origin branchname`.
 
-#### Step five
+#### Step six
 check that changes have made it to github. when ready, create a 'new pull request' to merge `yourbranch` with `master`. 
 
 assign your partner to review your request, don't merge your own request! also leave a nice note. 
