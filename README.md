@@ -1,4 +1,4 @@
-# Fresh and fruity gallery
+# Fresh and fruity gallery practice round
 
 #### Step one
 install node & npm, and (optionally) yarn. 
