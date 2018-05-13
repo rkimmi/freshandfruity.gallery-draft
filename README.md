@@ -6,7 +6,7 @@ install node & npm, and (optionally) yarn.
 clone this repository, run `npm install` or `yarn` to install dependencies.
 
 #### Step two
-run the dev script using `yarn dev` or `npm run dev`, go to localhost3000 in your browser.
+run the dev script using `yarn dev` or `npm run dev`, go to localhost:3000 in your browser.
 
 #### Step three
 check out a new branch using `git checkout -b branchname`, or if the branch already exists, `git checkout branchname`.
