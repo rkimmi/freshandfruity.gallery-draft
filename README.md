@@ -12,7 +12,8 @@ run the dev script using `yarn dev` or `npm run dev`, go to localhost3000 in you
 check out a new branch using `git checkout -b branchname`, or if the branch already exists, `git checkout branchname`.
 
 #### Step four 
-make some changes. client/components/App.jsx is a good place to start.
+make some changes. client/components/Home.jsx or Another.jsx is a good place to start. Create or delete components and import them into App.jsx.
+
 the script `dev` is listening to any changes to files, so no need to run it again. just refresh on localhost:3000 to confirm any changes. 
 
 while you're at it, download the React developer tools extension:
