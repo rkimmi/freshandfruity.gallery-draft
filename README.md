@@ -25,7 +25,7 @@ send your changes to github;
 `git push origin branchname`.
 
 #### Step five
-check that changes have made it to github. when ready, create a new pull request to merge `yourbranchname` with `master`. 
+check that changes have made it to github. when ready, create a 'new pull request' to merge `yourbranch` with `master`. 
 
 assign your partner to review your request, don't merge your own request! also leave a nice note. 
 
