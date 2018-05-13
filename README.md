@@ -19,4 +19,4 @@ make some changes. Client/components/App.jsx is a good place to start.
 #### Step five
 check that changes have made it to github. when ready, create a new pull request to merge *yourbranchname* with *master*. assign your partner to review your request, don't merge your own request! also leave a nice note. 
 
-- xx
+#### xx
