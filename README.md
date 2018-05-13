@@ -17,6 +17,7 @@ the script `dev` is listening to any changes to files, so no need to run it agai
 
 
 send your changes to github;
+
 `git add .` to add all changes, or `git add filename` to add only changes to a specific file,
 
 `git commit -m 'message about changes'`,
