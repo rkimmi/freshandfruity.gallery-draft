@@ -16,7 +16,7 @@ make some changes. Client/components/App.jsx is a good place to start.
 
 *git add .* to add all changes, or *git add filename* to add only changes to a specific file,
 
-*git commit -m 'message about changes',
+*git commit -m 'message about changes'*,
 
 *git push origin branchname*.
 
