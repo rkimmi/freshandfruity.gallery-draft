@@ -12,8 +12,11 @@ run the dev script using `yarn dev` or `npm run dev`, go to localhost3000 in you
 check out a new branch using `git checkout -b branchname`, or if the branch already exists, `git checkout branchname`.
 
 #### Step four 
-make some changes. Client/components/App.jsx is a good place to start.
+make some changes. client/components/App.jsx is a good place to start.
+the script `dev` is listening to any changes to files, so no need to run it again. just refresh on localhost:3000 to confirm any changes. 
 
+
+send your changes to github;
 `git add .` to add all changes, or `git add filename` to add only changes to a specific file,
 
 `git commit -m 'message about changes'`,
