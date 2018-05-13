@@ -15,11 +15,11 @@ check out a new branch using `git checkout -b branchname`, or if the branch alre
 make some changes. client/components/App.jsx is a good place to start.
 the script `dev` is listening to any changes to files, so no need to run it again. just refresh on localhost:3000 to confirm any changes. 
 
-While your at it, download the React developer tools extension.
+while you're at it, download the React developer tools extension:
 
-Chrome: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+chrome: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+firefox: https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
 
 #### Step five
 send your changes to github;
