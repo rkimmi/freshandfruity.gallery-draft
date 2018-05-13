@@ -16,7 +16,9 @@ make some changes. client/components/App.jsx is a good place to start.
 the script `dev` is listening to any changes to files, so no need to run it again. just refresh on localhost:3000 to confirm any changes. 
 
 While your at it, download the React developer tools extension.
+
 Chrome: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
 
 #### Step five
